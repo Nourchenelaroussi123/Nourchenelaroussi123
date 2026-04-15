@@ -1,8 +1,8 @@
 # Hi 👋 I'm Nourchene Laroussi
 
-🎓 AI Engineering Student @ ESPRIT
-🤖 Specializing in NLP, LLMs and RAG systems
-⚙️ Building intelligent chatbots, document processing pipelines and semantic search solutions
+* 🎓 AI Engineering Student @ ESPRIT
+* 🤖 Specializing in NLP, LLMs and RAG systems
+* ⚙️ Building intelligent chatbots, document processing pipelines and semantic search solutions
 
 ---
 
