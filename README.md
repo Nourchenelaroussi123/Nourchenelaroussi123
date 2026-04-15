@@ -1,16 +1,17 @@
 # Hi 👋 I'm Nourchene Laroussi
 
 🎓 AI Engineering Student @ ESPRIT
-🤖 Building intelligent systems with NLP, LLMs & real-world data
+🤖 Specializing in NLP, LLMs and RAG systems
+⚙️ Building intelligent chatbots, document processing pipelines and semantic search solutions
 
 ---
 
 ## 🚀 About Me
 
 * 💡 Designing and building **production-ready AI systems**
-* 🧠 Specializing in **NLP, LLMs, RAG, Deep Learning & MLOps**
-* ⚙️ Focus on **chatbots, document intelligence & semantic search**
-* 📈 Passionate about **scalable and real-world AI applications**
+* 🧠 Specialized in **NLP, LLMs, RAG, Deep Learning & MLOps**
+* ⚙️ Focused on **chatbots, document intelligence & semantic search**
+* 📈 Passionate about **scalable, real-world AI applications**
 
 ---
 
@@ -99,12 +100,9 @@ Git · GitHub · Linux · Docker · Power BI · n8n
 * English — Intermediate
 
 ---
-
 ## 📫 Connect with me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/nourchene-laroussi-511bb32b0/
-* 📧 Email: [nourchene.laroussi@esprit.tn](mailto:nourchene.laroussi@esprit.tn)
-
+- 💼 LinkedIn: https://www.linkedin.com/in/nourchene-laroussi-511bb32b0/  
+- 📧 Email: laroussinourchene46@gmail.com  
 ---
 
 ## ⚡ Fun Fact
